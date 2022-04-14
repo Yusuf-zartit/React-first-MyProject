@@ -1,0 +1,22 @@
+module.exports =    [
+    {
+        id:1,
+        name:"MALATYA",
+        PLAKA:"44",
+    },
+    {
+        id:2,
+        name:"ISTANBUL",
+        PLAKA:"34",
+    },
+    {
+        id:3,
+        name:"ANKARA",
+        PLAKA:"06",
+    },
+    {
+        id:4,
+        name:"HATAY",
+        PLAKA:"31",
+    }
+]
